@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    scroll-behavior: smooth;
+    
 }
 
 /* font-family: "Open Sans", sans-serif;
@@ -9,6 +9,7 @@
 */
 html {
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -58,3 +59,4 @@ h6 {
 a {
     text-decoration: none;
 }
+
